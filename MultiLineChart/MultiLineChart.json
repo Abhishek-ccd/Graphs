@@ -1,6 +1,6 @@
 [
   {
-    "line": "Issued",
+    "line": "header 1",
     "data": [
       {"year":"2015","data":8843},
       {"year":"2016","data":17165},
@@ -12,7 +12,7 @@
     ]
   },
   {
-    "line": "Retired",
+    "line": "header 2",
     "data": [
       {"year":"2015","data":8843},
       {"year":"2016","data":12885},
@@ -24,7 +24,7 @@
     ]
   },
   {
-    "line": "Remaining",
+    "line": "header 3",
     "data": [
       {"year":"2015","data":0},
       {"year":"2016","data":4280},
